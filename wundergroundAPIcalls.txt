@@ -1,0 +1,7 @@
+http://api.wunderground.com/api/ac7a36c023c7b2d3/astronomy/q/UK/Gravesend.json
+http://api.wunderground.com/api/ac7a36c023c7b2d3/conditions/q/UK/Gravesend.json
+http://api.wunderground.com/api/ac7a36c023c7b2d3/forecast/q/UK/Gravesend.json
+http://api.wunderground.com/api/ac7a36c023c7b2d3/forecast10day/q/UK/Gravesend.json
+http://api.wunderground.com/api/ac7a36c023c7b2d3/geolookup/q/UK/Gravesend.json
+http://api.wunderground.com/api/ac7a36c023c7b2d3/hourly/q/UK/Gravesend.json
+http://api.wunderground.com/api/ac7a36c023c7b2d3/hourly10day/q/UK/Gravesend.json
