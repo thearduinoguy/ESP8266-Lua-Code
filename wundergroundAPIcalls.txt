@@ -1,7 +1,7 @@
-http://api.wunderground.com/api/ac7a36c023c7b2d3/astronomy/q/UK/Gravesend.json
-http://api.wunderground.com/api/ac7a36c023c7b2d3/conditions/q/UK/Gravesend.json
-http://api.wunderground.com/api/ac7a36c023c7b2d3/forecast/q/UK/Gravesend.json
-http://api.wunderground.com/api/ac7a36c023c7b2d3/forecast10day/q/UK/Gravesend.json
-http://api.wunderground.com/api/ac7a36c023c7b2d3/geolookup/q/UK/Gravesend.json
-http://api.wunderground.com/api/ac7a36c023c7b2d3/hourly/q/UK/Gravesend.json
-http://api.wunderground.com/api/ac7a36c023c7b2d3/hourly10day/q/UK/Gravesend.json
+http://api.wunderground.com/api/xxxxxxxx/astronomy/q/UK/Gravesend.json              557 chars
+http://api.wunderground.com/api/xxxxxxxx/conditions/q/UK/Gravesend.json             2641 chars
+http://api.wunderground.com/api/xxxxxxxx/forecast/q/UK/Gravesend.json               7673 chars
+http://api.wunderground.com/api/xxxxxxxx/forecast10day/q/UK/Gravesend.json          18376 chars
+http://api.wunderground.com/api/xxxxxxxx/geolookup/q/UK/Gravesend.json              7716 chars
+http://api.wunderground.com/api/xxxxxxxx/hourly/q/UK/Gravesend.json                 46214 chars
+http://api.wunderground.com/api/xxxxxxxx/hourly10day/q/UK/Gravesend.json            305541 chars
