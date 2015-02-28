@@ -1,8 +1,9 @@
-# ESP8266-Lua-Time-Code
-ESP8266 Lua Time Code
+# ESP8266-Lua-Code
+ESP8266 Lua Code
 
-Lua code for an ESP8266 flashed with NodeMCU to retrieve a time and date string from google.com every 60 seconds and print to the serial port.
+Various bits of Lua code to use on a NodeMCU flashed ESP8266:
 
-To be used in conjunction with an RTC chip to sync. 
+GoogleTime -retrieve a time and date string from google.com every 60 seconds and print to the serial port. To be used in conjunction with an RTC chip to sync. 
 
+Weather - Get weather details from Wunderground and parse the returned JSON string
 
